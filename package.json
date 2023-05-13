@@ -1,0 +1,31 @@
+{
+  "name": "hotel-passos",
+  "version": "1.0.0",
+  "description": "Um projeto para estudar mais sobre a conexão entre backend e frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevPassosMatheus/hotel-passos.git"
+  },
+  "keywords": [
+    "study",
+    "focus",
+    "future"
+  ],
+  "author": "Matheus Passos da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevPassosMatheus/hotel-passos/issues"
+  },
+  "homepage": "https://github.com/DevPassosMatheus/hotel-passos#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
